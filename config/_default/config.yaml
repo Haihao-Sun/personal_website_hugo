@@ -5,7 +5,7 @@
 
 title: Haihao Sun # Website name
 baseurl: '' # Website URL
-copyright: '© {2021} Haihao Sun' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Haihao Sun' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

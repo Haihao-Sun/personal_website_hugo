@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- icon: java
+  icon_pack: general
+  name: Java
+  description: "90%"
+# - description: 100%
+#   icon: chart-line
+#   icon_pack: fas
+#   name: Statistics
+# - description: 10%
+#   icon: camera-retro
+#   icon_pack: fas
+#   name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -42,4 +42,4 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
----
+--- -->
