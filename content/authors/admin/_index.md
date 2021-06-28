@@ -25,10 +25,10 @@ interests:
 education:
   courses:
   - course: MS in Computer Science
-    institution: Yale University
+    institution: Yale University | New Haven, CT
     year: 2021 - 2022
   - course: BS in Computer Engineering
-    institution: University of California San Diego
+    institution: University of California San Diego | San Diego, CA
     year: 2018 - 2021
 
 # Social/Academic Networking
@@ -39,18 +39,29 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/TribbianniSun
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/haihao-sun/
+- icon: blogger
+  link: https://tribbiannisun.github.io/
+  icon_pack: fab
+  
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+
+
+# =======
+# CV Session
+# =======
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
