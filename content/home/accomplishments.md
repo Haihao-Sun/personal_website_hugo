@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.icpc.org/icpc-north-america-division/
   date_end: ""
   date_start: "2021-04-22"
-  description: "ACM-ICPC International Collegiate Programming Contest"
+  description: ACM-ICPC International Collegiate Programming Contest <img src="uploads/ACM-ICPC.png" alt="UCSD" height=10px; class="lazyload">
   organization: ACM-ICPC
   organization_url: https://icpc.global/
   title: ICPC North America West Division Gold Medalist
@@ -34,11 +34,15 @@ item:
 - certificate_url: http://socalcontest.org/history/2020/SC2020-2021-FinalResults.html
   date_end: ""
   date_start: "2021-02-28"
-  description: "ACM-ICPC International Collegiate Programming Contest"
+  description: ACM-ICPC International Collegiate Programming Contest <img src="uploads/ACM-ICPC.png" alt="UCSD" height=10px; class="lazyload">
   organization: ACM-ICPC
   organization_url: https://icpc.global/
-  title: SoCal Region ICPC Winner
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  title: SoCal Region ICPC Winner 
+  
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals  
+  # <img src="uploads/UCSD-JSOE-2.jpeg" alt="UCSD" width="700" height="300"/>
+
+
 # - certificate_url: https://www.datacamp.com
 #   date_end: "2020-12-21"
 #   date_start: "2020-07-01"
