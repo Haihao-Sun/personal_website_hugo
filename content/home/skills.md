@@ -16,10 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: CPP
+- icon: cpp
   icon_pack: custom
-  name: CPP
-  description: "90%"
+  name: C++
+  description: "80%"
+- icon: java
+  icon_pack: custom
+  name: Java
+  description: "80%"
+- icon: python
+  icon_pack: custom
+  name: Python
+  description: "80%"
+- icon: docker
+  icon_pack: custom
+  name: Docker
+  description: "60%"
+- icon: golang
+  icon_pack: custom
+  name: Golang
+  description: "60%"
 # - description: 100%
 #   icon: chart-line
 #   icon_pack: fas
