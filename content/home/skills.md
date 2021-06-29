@@ -19,23 +19,47 @@ feature:
 - icon: CPP-test
   icon_pack: custom
   name: C++
-  description: "80%"
+  # description: "test"
 - icon: java
   icon_pack: custom
   name: Java
-  description: "80%"
+  # description: "80%"
 - icon: python
   icon_pack: custom
   name: Python
-  description: "80%"
+  # description: "80%"
 - icon: docker
   icon_pack: custom
   name: Docker
-  description: "60%"
+  # description: "60%"
 - icon: golang
   icon_pack: custom
   name: Golang
-  description: "60%"
+  # description: "60%"
+- icon: JS
+  icon_pack: custom
+  name: Javascript
+  # description: "60%"
+- icon: H5
+  icon_pack: custom
+  name: HTML5
+  # description: "60%"
+- icon: css3
+  icon_pack: custom
+  name: CSS3
+  # description: "60%"
+- icon: git
+  icon_pack: custom
+  name: Git
+  # description: "60%"
+- icon: swift
+  icon_pack: custom
+  name: Swift
+  # description: "60%"
+- icon: problem-solving
+  icon_pack: custom
+  name: Problem-Solving
+  # description: "60%"
 # - description: 100%
 #   icon: chart-line
 #   icon_pack: fas
