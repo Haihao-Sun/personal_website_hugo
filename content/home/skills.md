@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -16,9 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: java
-  icon_pack: general
-  name: Java
+- icon: CPP
+  icon_pack: custom
+  name: CPP
   description: "90%"
 # - description: 100%
 #   icon: chart-line
@@ -30,10 +30,10 @@ feature:
 #   name: Photography
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+# - icon: ":smile:"
+#   icon_pack: "emoji"
+#   name: "Emojiness"
+#   description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
@@ -42,4 +42,4 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
---- -->
+---
