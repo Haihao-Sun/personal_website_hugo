@@ -20,21 +20,22 @@ feature:
   icon_pack: custom
   name: C++
   # description: "test"
-- icon: java
+- icon: golang
   icon_pack: custom
-  name: Java
-  # description: "80%"
+  name: Golang
+  # description: "60%"
 - icon: python
   icon_pack: custom
   name: Python
   # description: "80%"
+- icon: java
+  icon_pack: custom
+  name: Java
+  # description: "80%"
+
 - icon: docker
   icon_pack: custom
   name: Docker
-  # description: "60%"
-- icon: golang
-  icon_pack: custom
-  name: Golang
   # description: "60%"
 - icon: JS
   icon_pack: custom
@@ -56,9 +57,18 @@ feature:
   icon_pack: custom
   name: Swift
   # description: "60%"
-- icon: problem-solving
+- icon: problem-solving-2
   icon_pack: custom
   name: Problem-Solving
+  # description: "60%"
+- icon: learning
+  icon_pack: custom
+  name: Self-Driven Learning
+  # description: "60%"
+- icon: MySQL
+  icon_pack: custom
+  name: SQL
+
   # description: "60%"
 # - description: 100%
 #   icon: chart-line
