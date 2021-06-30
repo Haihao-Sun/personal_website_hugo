@@ -29,7 +29,7 @@ item:
   description: ACM-ICPC International Collegiate Programming Contest <img src="uploads/ACM-ICPC.png" alt="UCSD" height=10px; class="lazyload">
   organization: ACM-ICPC
   organization_url: https://icpc.global/
-  title: ICPC North America West Div ision Gold Medalist
+  title: ICPC North America West Division Gold Medalist
   url: "https://www.icpc.org/icpc-north-america-division/"
 - certificate_url: http://socalcontest.org/history/2020/SC2020-2021-FinalResults.html
   date_end: ""

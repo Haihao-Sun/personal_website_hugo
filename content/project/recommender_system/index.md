@@ -3,7 +3,7 @@ title: Recommender System on Stream’s datasets
 summary: Recommender System on Stream’s datasets
 tags:
 - Machine Learning
-date: "2020-06-27T00:00:00Z"
+date: "2020-02-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Follow
-  url: https://github.com/TribbianniSun
+# - icon: github
+#   icon_pack: fab
+#   name: Follow
+#   url: https://github.com/TribbianniSun
 url_code: ""
 url_pdf: ""
 url_slides: ""

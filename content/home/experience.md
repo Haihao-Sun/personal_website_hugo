@@ -32,27 +32,11 @@ experience:
     date_end: ''
     
     description: |2-
-        <img src="uploads/DH-Hotstar.jpeg" alt="hotstar" width="700" height="300"/>
+        <img src="uploads/DP-Hotstar.jpeg" alt="UCSD" width="700" height="300"/>
 
         # <font size="6">Experience Description</font> 
         * Improved implementations for anomaly detection in time series data using **Facebook Prophet**, proposed reasons behind error, and finally clustered hypotheses using Disjoint-set in **Golang**.
-        * Built a **Docker Kubernetes-ready** Service in **Golang** which managed to aggregate and standardize metrics from different external sources dynamically, enabling monitor multiple servers with **Prometheus and Grafana**.
-
-  - title: Academic Tutor/Teaching Assistant
-    company: University of California, San Diego
-    company_url: ''
-    company_logo: UCSD
-    location: San Diego, CA
-    date_start: '2020-03-27'
-    date_end: '2020-03-28'
-    
-    description: |2-
-        <img src="uploads/UCSD-3.jpeg" alt="UCSD" width="700" height="300"/>
-
-        # <font size="6">Experience Description</font> 
-        * Instructional Assistant for DSC30/DSC20 with **200+** students enrolled, holding **100+** office hours to guide students with data structure and algorithms.
-        * Responsibilities included helping with discussion sections, assisting students in programming assignments, designingconceptual algorithm questions for midterms/finals, and grading programs and exams in **Java and Python**.
-        * **Data Structure and Algorithm** included object-oriented programming, search algorithms, linked lists, queues,heaps, graph traversal, trees, huffman coding, and hash tables.
+        * Built a **Docker Kubernetes-ready** Service in **Golang** which managed to aggregate and standardize metrics from different external sources dynamically, thereby supporting monitoring multiple servers with **Prometheus and Grafana**.
 
   - title: Software Engineer Intern
     company: Listening to Waves | University of California, San Diego
@@ -67,7 +51,25 @@ experience:
 
         # <font size="6">Experience Description</font> 
         * Designed and implemented an **user-interactive** canvas which generate complex audio waveforms based the userinput, thus helping **500+** customers experience the art of electronic music and visualize some common signals.
-        * Fixed pure and complex waves’ frequency and period mismatching in responsive design, thereby helping more **500+** users understand the relation between frequency and period correctly with CI/CD pipeline in CodeDeploy.
+        * Fixed pure and complex waves’ frequency and period mismatching in responsive design, thereby helping more **500+** users understand the relation between frequency and period correctly with **CI/CD pipeline** in CodeDeploy.
+
+  - title: Academic Tutor/Teaching Assistant
+    company: University of California, San Diego
+    company_url: ''
+    company_logo: UCSD
+    location: San Diego, CA
+    date_start: '2020-03-27'
+    date_end: '2020-03-28'
+    
+    description: |2-
+        <img src="uploads/UCSD-3.jpeg" alt="UCSD" width="700" height="300"/>
+
+        # <font size="6">Experience Description</font> 
+        * Served as an **undergraduate teaching assistant** for DSC30/DSC20 with **200+** students enrolled, held **100+** office hours to guide students with **Java, Python, Data Structure, and Algorithms**.
+        * Took responsibilities of helping with discussion sections, assisting students in **programming assignments**, crafting conceptual and algorithmic questions for midterms/finals, and grading programs and exams.
+        * Explained **Data Structure and Algorithm** including searching algorithms, linked lists, queues, heaps, graphtraversal, trees, huffman coding, hash tables, and object-oriented programming.
+
+
 
 
   # - title: Professor of Semiconductor Physics

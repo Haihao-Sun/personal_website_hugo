@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sunflower"
-summary: "A website aiming to improve working efficiency and eliminate distraction"
+title: "Mathematical Calculator"
+summary: "An efficient mathematical calculator with file I/O written in C++"
 authors: []
 tags: []
 categories: ["Software Engineering"]
-date: 2021-04-29T19:16:33+08:00
+date: 2019-06-30T19:52:15+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,18 +17,20 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: false 
 
-links:
-# - icon: github
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
 #   icon_pack: fab
-#   name: Follow
-#   url: https://github.com/TribbianniSun
+#   icon: twitter
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -38,5 +40,5 @@ url_video: ""
 slides: ""
 ---
 
-- Developed a full-stack chrome application with **Google Firebase** as back-end, and **React** as front-end framework to enhance working efficiency for the remote setting.
-- Worked on features in **blocking distracting website, countdown clock in Model View Controller** pattern.
+- Designed and developed a mathematical calculator which supports reading input, File I/O, and calculate expressions with variables.
+- Implemented **self-balancing binary search tree** to support fast variable access in O(logn) time.
