@@ -4,8 +4,8 @@
 title: "Sunflower"
 summary: "A website aiming to improve working efficiency and eliminate distraction"
 authors: []
-tags: []
-categories: ["Software Engineering"]
+tags: ["Software-Engineering"]
+categories: []
 date: 2021-04-29T19:16:33+08:00
 
 # Optional external URL for project (replaces project detail page).

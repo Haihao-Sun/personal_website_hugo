@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Software Engineering
+    tag: Software-Engineering
   - name: Machine Learning
     tag: Machine Learning
   - name: Other

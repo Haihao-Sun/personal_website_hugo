@@ -4,8 +4,8 @@
 title: "Mathematical Calculator"
 summary: "An efficient mathematical calculator with file I/O written in C++"
 authors: []
-tags: []
-categories: ["Software Engineering"]
+tags: ["Software-Engineering"]
+categories: []
 date: 2019-06-30T19:52:15+08:00
 
 # Optional external URL for project (replaces project detail page).

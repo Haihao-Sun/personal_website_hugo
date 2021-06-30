@@ -4,7 +4,7 @@
 title: "AlphaGomoku"
 summary: "Reinforcement Learning based artificial intelligence to master the game of Gomoku"
 authors: []
-tags: []
+tags: ["Software-Engineering", "Machine Learning"]
 categories: []
 date: 2021-03-30T19:44:32+08:00
 
