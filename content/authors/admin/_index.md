@@ -77,6 +77,7 @@ email: ""
 highlight_name: false
 ---
 
-Haihao Sun is a Computer Science graduate student passionate in problem solving and software engineering. Adept in various programming languages and frameworks for mobile application and full-stack web development. Actively seeking full time software engineer opportunity where I can apply my skills and insights to expand expectations and produce results.
+Haihao Sun is a computer science master student who is passionate with software engineering and problem solving. He has strong knowledge of C++, Go and network programming. Adept in various programming languages and frameworks, he contributes to widely used applications and services during his internship experience. He loves algorithms and advanced mathematics, winning medals in ACM-ICPC and Advanced Mathematics Competition. Currently, he is actively seeking full time software engineer work opportunity where he can apply his unique skills and insights to expand expectataions and produce results. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
